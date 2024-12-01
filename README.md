@@ -7,7 +7,6 @@
 
 ## set_book_genre
 - test_set_book_genre_in_list
-
 - test_set_book_genre_not_in_list
 
 ## get_book_genre
@@ -21,7 +20,6 @@
 
 ## get_books_for_children
 - test_get_books_for_children_two_books
-- test_get_books_for_children_empty
 
 ## add_book_in_favorites
 - test_add_book_in_favorites
